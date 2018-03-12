@@ -99,3 +99,9 @@ gtk-config
 intl/po2tbl.sed
 po/Makefile.in
 po/POTFILES
+gtk/simple
+gtk/testdnd
+gtk/testgtk
+gtk/testinput
+gtk/testrgb
+gtk/testselection
